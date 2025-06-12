@@ -27,6 +27,14 @@ The IP scheme was developed using VLSM to efficiently allocate addresses to vari
 - Used the VLSM calculator from [davidc.net](https://www.davidc.net/sites/default/vlsmcalc.htm).
 - Allocated IPs to networks A–K based on exact host counts.
 - Ensured minimal IP wastage and scalable addressing.
+  
+📷 **Host Requirements screenshot below:**
+
+![Requirements Table](images/host_requirement.png)]]
+
+📷 **SubNets screenshot below:**
+
+![Subnets Table](images/VLSM.png)]]
 
 ---
 
@@ -41,7 +49,7 @@ The IP scheme was developed using VLSM to efficiently allocate addresses to vari
 - Reserved static IPs for gateways and servers.
 - DHCP pools reflect the VLSM-planned subnets.
 
-📷 **Insert DHCP configuration screenshot below:**
+📷 **DHCP configuration screenshot below:**
 
 ![DHCP Configuration](images/DHCP_CONFIG.png)
 
@@ -52,7 +60,7 @@ The IP scheme was developed using VLSM to efficiently allocate addresses to vari
 - All other networks retain normal access to K.
 - ACLs are applied in the inbound/outbound direction depending on topology layout.
 
-📷 **Insert ACL screenshot below:**
+📷 **ACL screenshot below:**
 
 ![ACL Configuration](images/ACL_CONFIG.png)
 
@@ -63,7 +71,7 @@ The IP scheme was developed using VLSM to efficiently allocate addresses to vari
 - Configured SMTP and POP3 services.
 - Clients from other networks (except Network J) can send/receive emails.
 
-📷 **Insert Email Server screenshot below:**
+📷 **Email Server screenshot below:**
 
 ![Email Server Configuration](images/EMAIL_CONFIG.png)
 
@@ -102,8 +110,7 @@ The IP scheme was developed using VLSM to efficiently allocate addresses to vari
 
 - `project.pkt`: Cisco Packet Tracer topology file
 - `README.md`: This documentation
-- `images/`: Folder containing configuration screenshots (replace placeholders)
-- `planning/`: VLSM subnetting screenshots from davidc.net
+- `images/`: Folder containing configuration screenshots
 
 ---
 
