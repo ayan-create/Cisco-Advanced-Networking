@@ -30,7 +30,7 @@ The IP scheme was developed using VLSM to efficiently allocate addresses to vari
   
 📷 **Host Requirements screenshot below:**
 
-![Requirements Table](images/host_requirement.png)]]
+![Requirements Table](images/host_requirement table.png)]]
 
 📷 **SubNets screenshot below:**
 
@@ -62,7 +62,7 @@ The IP scheme was developed using VLSM to efficiently allocate addresses to vari
 
 📷 **ACL screenshot below:**
 
-![ACL Configuration](images/ACL_CONFIG.png)
+![ACL Configuration](images/ACL_.png)
 
 ---
 
