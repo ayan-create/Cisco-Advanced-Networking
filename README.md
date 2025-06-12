@@ -129,6 +129,6 @@ The IP scheme was developed using VLSM to efficiently allocate addresses to vari
 - IP addressing is tightly optimized using VLSM
 - Redistributed routes include proper metric handling
 - Project topology supports future expansion and real-world deployment concepts
-
+- Intial IP used to subnet was 192.160.0.0/12
 ---
 
