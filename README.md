@@ -43,7 +43,7 @@ The IP scheme was developed using VLSM to efficiently allocate addresses to vari
 
 📷 **Insert DHCP configuration screenshot below:**
 
-![DHCP Configuration](images/dhcp-config.png)
+![DHCP Configuration](images/DHCP_CONFIG.png)
 
 ---
 
@@ -54,7 +54,7 @@ The IP scheme was developed using VLSM to efficiently allocate addresses to vari
 
 📷 **Insert ACL screenshot below:**
 
-![ACL Configuration](images/acl-config.png)
+![ACL Configuration](images/ACL_CONFIG.png)
 
 ---
 
@@ -65,7 +65,7 @@ The IP scheme was developed using VLSM to efficiently allocate addresses to vari
 
 📷 **Insert Email Server screenshot below:**
 
-![Email Server Configuration](images/email-server.png)
+![Email Server Configuration](images/EMAIL_CONFIG.png)
 
 ---
 
